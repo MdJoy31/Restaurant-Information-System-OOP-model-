@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "restaurantSystem",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "your_mysql_username",
+    "password": "your_mysql_password",
+    "database": "restaurantSystem_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "your_mysql_username",
+    "password": "your_mysql_password",
+    "database": "restaurantSystem_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
